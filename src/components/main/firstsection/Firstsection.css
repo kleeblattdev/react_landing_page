@@ -1,0 +1,8 @@
+.firstSection{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.firstSection article{
+    text-align: left;
+}
